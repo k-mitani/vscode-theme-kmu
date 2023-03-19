@@ -17,5 +17,10 @@
         "path": "./themes/theme-kmu-color-theme.json"
       }
     ]
+  },
+  "publisher": "k-mitani",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k-mitani/vscode-theme-kmu.git"
   }
 }
